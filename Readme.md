@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/MarsTemperature/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MarsTemperature/MainWindow.xaml))
+<!-- default file list end -->
 # How to customize chart annotations
 
 
